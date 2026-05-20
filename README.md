@@ -38,7 +38,7 @@
 # Hi, I'm Vivek Sevak 👋
 ### Senior Graphic & Motion Graphic Designer
 
-A creative professional with over 8 years of extensive experience delivering high-end, cinematic, and ultra-realistic visual designs. Specializing in corporate advertising, high-impact social media carousels, brand identities, and dynamic motion graphics.
+A creative professional with over a decade of extensive experience delivering high-end, cinematic, and ultra-realistic visual designs. Specializing in corporate advertising, high-impact social media carousels, brand identities, and dynamic motion graphics.
 
 - 💼 **Current Focus:** Open to Senior Graphic Designer positions and collaborative creative projects.
 - 🎨 **Core Expertise:** Visual Storytelling, Brand Strategy, High-Resolution Corporate Collateral, Video Editing, & Technical Special Effects.
