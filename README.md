@@ -6,6 +6,7 @@ A creative professional with over a decade of extensive experience delivering hi
 - 💼 **Current Focus:** Open to Senior Graphic Designer positions and collaborative creative projects.
 - 🎨 **Core Expertise:** Visual Storytelling, Brand Strategy, High-Resolution Corporate Collateral, Video Editing, & Technical Special Effects.
 - 🌐 **Portfolio:** Find my full high-fidelity case studies on [Behance](https://www.behance.net/viveksevakk/).
+- 🌐 **Resume:** Find my full Work Experiance & Achievement on https://www.artfolio.tech/viveksevakk
 
 ---
 
