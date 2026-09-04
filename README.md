@@ -33,7 +33,7 @@ A creative professional with over a decade of extensive experience delivering hi
   <tr>
     <td width="50%" align="center">
       <a href="https://www.behance.net/gallery/254449957/The-Roost-Coffee-House">
-        <img src="https://www.behance.net/gallery/254449957/The-Roost-Coffee-House/modules/1480459077.png" alt="Branding & Advertisement" width="100%"/>
+        <img src="https://www.behance.net/gallery/254449957/The-Roost-Coffee-House/modules/1480459077.JPEG" alt="Branding & Advertisement" width="100%"/>
         <br /><b>Social Media Creatives</b>
       </a>
     </td>
