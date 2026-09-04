@@ -50,7 +50,7 @@ A creative professional with over a decade of extensive experience delivering hi
         <br /><b>FBSPL - Creatives 2 </b>
       </a>
     </td>
-  </tr>
+  <tr>
       <td width="50%" align="center">
     <a href="https://www.behance.net/gallery/192644439/Political-Campaign-2">
         <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/608055192644439.65df096eb314f.jpg" alt="Branding & Advertiment" width="100%"/>
