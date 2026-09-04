@@ -31,15 +31,15 @@ A creative professional with over a decade of extensive experience delivering hi
 
 <table>
    <tr>
-    <td width="50%" align="center">
-      <a href="[https://www.behance.net/gallery/248121613/The Roost - Coffee House">
-        <img src="[https://mir-s3-cdn-cf.behance.net/project_modules/2800_webp/12d3d4248121613.69ea2014de345.jpg" alt="Branding & Advertiment" width="100%"/>
+      <td width="50%" align="center">
+    <a href="[https://www.behance.net/gallery/248121613/The Roost - Coffee House">
+        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_webp/12d3d4248121613.69ea2014de345.jpg" alt="Branding & Advertiment" width="100%"/>
         <br /><b>FBSPL - Social Media Creatives </b>
       </a>
     </td>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://www.behance.net/gallery/248121613/FBSPL-Branding">
+      <td width="50%" align="center">
+    <a href="https://www.behance.net/gallery/248121613/FBSPL-Branding">
         <img src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_webp/12d3d4248121613.69ea2014de345.jpg" alt="Branding & Advertiment" width="100%"/>
         <br /><b>FBSPL - Vector Base Creatives </b>
       </a>
@@ -82,5 +82,8 @@ A creative professional with over a decade of extensive experience delivering hi
 
 <p align="center">
   <img src="https://path-to-your-animated-file.gif" alt="Cinematic Motion Graphics Preview" width="80%">
-</p>
+  <br /><b>Motion & Video Showcase </b>
+</a>
+</td>
+</tr>
 
